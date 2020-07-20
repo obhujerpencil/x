@@ -1,0 +1,44 @@
+.navbar{
+  background-color: #251e3e !important;
+}
+
+.navbar-brand {
+    font-family: 'Grenze Gotisch', cursive;
+    font-weight: bold;}
+
+.container-fluid{
+  text-align: center;
+}
+.refresh{
+  font-size: 10rem;
+  padding-top: 8%;
+  padding-bottom: 2%;
+
+}
+#title{
+  background-color: #251e3e;
+}
+.row{
+  padding: 0% 25% 5% 25%;}
+
+.img{
+  width: 75%;
+}
+
+
+.refresh{
+  color: #fff;
+  font-family: 'Grenze Gotisch', cursive;
+}
+.player{
+  color: #fff;
+  font-family: 'Mulish', sans-serif;
+  padding-bottom: 2%;
+}
+footer{
+  color: #fff;
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
